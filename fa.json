@@ -1,0 +1,138 @@
+{
+  "intents": [
+    {
+      "condition": "minor cut",
+      "patterns": [
+        "minor cut",
+        "cut",
+        "bleeding",
+        "scrape",
+        "wound"
+      ],
+      "emergency_help": "A minor cut typically doesn't require emergency care unless it's located in a sensitive area like the face or near a major blood vessel.",
+      "first_aid": "1. Wash your hands. This helps avoid infection.\n2. Stop the bleeding. Minor cuts and scrapes usually stop bleeding on their own. If needed, gently press the wound with a clean bandage or cloth. Raise the area until the bleeding stops.\n3. Clean the wound. Rinse the wound with water. Keeping the wound under running water will lower the risk of infection. Wash around the wound with soap. But don't get soap in the wound. And don't use hydrogen peroxide or iodine. Both can irritate wounds. Remove any dirt or debris with tweezers cleaned with alcohol. See a healthcare professional if you can't remove all debris\n4. Put on an antibiotic or petroleum jelly. Put on a thin layer of an antibiotic ointment or petroleum jelly to keep the surface moist and help prevent scarring. Ingredients in some antibiotic ointments can cause a mild rash in some people. If you get a rash, stop using the ointment.\n5. Cover the wound. Put on a bandage, rolled gauze or gauze held in place with paper tape. Covering the wound keeps it clean. If you have just a minor scrape or scratch, don't cover it.\n6. Change the covering. Do this at least once a day or whenever the covering becomes wet or dirty.",
+      "warning": "See a healthcare professional if you see signs of infection on the skin or near the wound. These include expanding changes in color, increasing pain, drainage, warmth or swelling.\nSee a healthcare professional to get a tetanus shot. A tetanus shot is needed if you haven't had one in the past five years and the wound is deep or dirty."
+    },
+    {
+      "condition": "nosebleed",
+      "patterns": [
+        "nosebleed",
+        "nosel bleeding",
+        "bleeding nose",
+        "blood from nose",
+        "epistaxis",
+        "stopping nosebleed",
+        "nose bleed"
+      ],
+      "emergency_help": "Seek emergency help if:\nNosebleeds involve a greater than expected amount of blood.\nNosebleeds last longer than 30 minutes.\nYou feel faint or lightheaded.\nThe nosebleed follows a fall or an accident. Bleeding after a fall or an injury to the head or face could mean that you have broken the nose.",
+      "first_aid": "1. Sit up and lean forward. Keep the head up. Lean forward so the blood doesn't go down the throat. This could cause you to choke or have an upset stomach.\n2. Gently blow your nose. This will clear any blood clots.\n3. Pinch the nose. Use the thumb and a finger to pinch both nostrils shut. Breathe through the mouth. Keep pinching for 10 to 15 minutes. Pinching puts pressure on the blood vessels and helps stop the blood flow. If the bleeding doesn't stop, pinch the nose again for up to 15 minutes. Don't let go for at least five minutes even to check if the bleeding has stopped. Seek emergency care if the bleeding doesn't stop after the second try.\n4. Prevent another nosebleed. Don't pick or blow the nose. And don't drop the head below the heart or lift anything heavy for many hours. Gently put a saline gel (Ayr), antibiotic ointment (Neosporin) or petroleum jelly (Vaseline) on the inside of the nose. Put most of the salve on the middle part of the nose, also called the septum. Steam, humidifiers or an ice pack across the bridge of the nose also may help.\n5. If you have another nosebleed, try first-aid steps again. This time, spray both sides of the nose with a nasal spray that has oxymetazoline in it (Afrin). Do this after blowing the nose. Then pinch the nose again. Seek medical help if the bleeding does not stop.",
+      "warning": "Contact your doctor if:\nYou have nosebleeds often. You may need to have a blood vessel cauterized. \nCautery is a method that burns and seals blood vessels using electric current, silver nitrate or a laser. Also, a care provider might pack the nose with special gauze or an inflatable latex balloon. Both packing methods put pressure on the blood vessel and stop the bleeding.\nYou have nosebleeds and you're taking blood thinners. If you're taking medicines such as aspirin or warfarin (Jantoven), your care team may change the medicine dose.\n\nThink about using a humidifier. Adding more moisture in your home may help relieve nasal bleeding."
+    },
+    {
+      "condition": "minor burn",
+      "patterns": [
+        "minor burn",
+        "first degree burn",
+        "skin burn",
+        "mild burn",
+        "sunburn",
+        "minorburn"
+      ],
+      "emergency_help": "A minor burn might need emergency care if it affects the eyes, mouth, hands or genitals. Babies and older adults might need emergency care for minor burns as well.",
+      "first_aid": "1. Cool the burn . Hold the area under cool running water for about 10 minutes(Don't use cold water to cool the burn.). If this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases. For a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes.\n2. Remove rings or other tight items. Try to do this quickly and gently, before the burned area swells.\n3. Apply lotion. After the burn is cooled, apply a lotion, such as one with aloe vera. This helps prevent drying.\n4. Bandage the burn. Cover the burn with a clean bandage. Wrap it loosely to avoid putting pressure on burned skin. Bandaging keeps air off the area, reduces pain and protects blistered skin.\n5. If needed, take a nonprescription pain reliever, such as ibuprofen (Advil, Motrin IB, others) or acetaminophen (Tylenol, others).",
+      "warning": "Don't break blisters. Blisters help protect against infection. If a blister does break, gently clean the area with water and apply an antibiotic ointment.\nSee a healthcare professional to get a tetanus shot, if you haven't had a tetanus shot in the past five years, especially if the burn is caused by a dirty object."
+    },
+    {
+      "condition": "chemical burn",
+      "patterns": [
+        "chemical burn",
+        "chemical injury",
+        "acid burn",
+        "chemical reaction on skin",
+        "chemical injury",
+        "chemicalburn"
+      ],
+      "emergency_help": "Major chemical burns need emergency help. A minor burn might need emergency care if it affects the eyes, mouth, hands or genital areas. Babies and older adults might need emergency care for minor burns as well.\n\nSeek immediate care for major chemical burns, which:\nMay be deep, involving all layers of the skin.\nAre larger than 3 inches (about 8 centimeters) in diameter.\nCover the hands, feet, face, groin, buttocks, or a major joint or encircles an arm or leg.",
+      "first_aid": "For major chemical burns, apply first aid as follows until emergency help arrives. For minor burns, take the same steps.\n1. Protect the burned person from further harm. Remove dry chemicals. Put on gloves and brush off any remaining material.\n2. Remove contaminated clothing or jewelry and rinse chemicals off for at least 20 minutes, in a shower if it's available. Protect eyes from the chemicals.\n3. Cover the burn. Loosely cover the area with gauze or a clean cloth.\n4. Rinse again if needed. If the area is still painful, rinse for several more minutes.\nFor major burns, watch for signs of shock. Symptoms include cool, clammy skin, weak pulse and shallow breathing.",
+      "warning": "If you seek emergency medical help, take the container or the name of the chemical with you."
+    },
+    {
+      "condition": "animal bite",
+      "patterns": [
+        "animal bite",
+        "dog bite",
+        "cat bite",
+        "wild animal bite"
+      ],
+      "emergency_help": "Seek emergency help :\nThe wound is a deep puncture or you're not sure how serious it is.\nThe skin is badly torn, crushed or bleeding severely. First apply pressure with a bandage or clean cloth to stop the bleeding.\nYou notice increasing swelling, skin color changes, pain or oozing. These are signs of infection.\n\nYou aren\u00e2\u20ac\u2122t sure whether the animal that bit you has rabies. Bats often carry rabies and can infect humans without leaving obvious signs of a bite. This is why the Centers for Disease Control and Prevention recommends that people in contact with bats seek medical advice about rabies shots. This is a good idea even if they don't think they've been bitten.",
+      "first_aid": "To care for a minor animal bite or claw wound, such as one that only breaks the skin, take these steps\n1. Wash the wound with soap and water\n2. Apply an antibiotic cream or ointment and cover the bite with a clean bandage.",
+      "warning": "If the wound was caused by a cat or a dog, try to confirm that its rabies vaccination is up to date. If it was caused by a wild animal, seek advice from your doctor about which animals are most likely to carry rabies."
+    },
+    {
+      "condition": "fracture",
+      "patterns": [
+        "fracture",
+        "broken bone",
+        "bone break",
+        "bone injury",
+        "bone fracture",
+        "broken leg",
+        "broken arm"
+      ],
+      "emergency_help": "Call for emergency help if:\nThe person with the broken bone doesn't respond to you, isn't breathing or isn't moving. Call emergency. Then begin CPR if there's no breathing or heartbeat.\nThere's heavy bleeding.\nEven gentle pressure or movement causes pain.\nThe limb or joint appears deformed.\nThe bone has broken the skin and is sticking out.\nThe toe of the injured leg or the finger of the injured arm is numb or discolored at the tip.\nYou suspect a bone is broken in the neck, head or back.",
+      "first_aid": "1. Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing.\n2. Keep the injured area from moving. Don't try to realign the bone or push a bone that's sticking out back in. If you've been trained in how to splint and medical help isn't available right away, apply a splint to the area above and below the fracture sites. Padding the splints can help reduce pain.\n3. Apply ice packs to limit swelling and help relieve pain. Don't apply ice directly to the skin. Wrap the ice in a towel, a piece of cloth or some other material.\n4. Treat for shock. If the person feels faint or is breathing in short, rapid breaths, lay the person down with the head slightly lower than the trunk. If you can, raise the legs.",
+      "warning": "Don't put weight or strain on the injured limb until cleared by a healthcare professional to prevent further damage."
+    },
+    {
+      "condition": "tooth loss",
+      "patterns": [
+        "tooth loss",
+        "toothloss",
+        "knocked out tooth",
+        "dental emergency",
+        "tooth injury",
+        "preserving tooth"
+      ],
+      "emergency_help": "Contact emergency help, if bleeding from the tooth socket cannot be controlled.",
+      "first_aid": "1. Handle your tooth by the top, also called the crown, only \u00e2\u20ac\u201d don't touch the roots.\n2. Carefully look at the crown and root to see if any part of either appears to be missing or cracked. Let the dentist know. Damage to the tooth may make replanting it less likely to be successful.\n3. Don't rub the tooth or scrape it to remove dirt, food or blood. Don't wrap the tooth in tissue or cloth. This damages the root surface, making the tooth less likely to survive.\n4. If your tooth has dirt or other material on it, gently rinse your tooth briefly with cow's milk or your own saliva. Don't use tap water or hold the tooth under running water, because too much tap water could kill the cells on the root surface that help reattach the tooth\n5. Try to put your tooth back into the socket. If the tooth doesn't go all the way into the socket, bite down slowly and gently on gauze, a napkin or a damp paper towel to help keep the tooth in place. Hold the tooth in place until you see your dentist.\n6. If you can't put your tooth back into the socket, place it right away in a container with cow's milk or your own saliva that you spit into the container. Or use a product you can buy without a prescription that preserves a knocked-out tooth, if you can get the product quickly. Look for a product approved by the dental specialties.\n7. Get emergency dental care. If your dentist's office isn't open, go to the emergency department at a hospital.",
+      "warning": "Baby teeth are not replanted if they're knocked out."
+    },
+    {
+      "condition": "foreign object in the nose",
+      "patterns": [
+        "foreign object in the nose",
+        "nasal obstruction",
+        "blocked nose",
+        "object in nostril"
+      ],
+      "emergency_help": "Call for emergency medical assistance if following methods fail. Delays and many failed tries to remove a stuck object can lead to infection and damage.",
+      "first_aid": "1. Remove right away if the object is a magnet, battery or expands when wet. These objects can cause severe tissue damage in just hours. If it's stuck and you can't remove it easily, seek emergency care.\n2. Blow out of your nose. The puff of air might free the object. This also is called positive pressure. Don't blow hard or constantly. If the object is stuck in only one nostril, gently close the other nostril with your finger. Then, blow out gently but firmly through the affected nostril.\n3. Try the parent's kiss. If an object is stuck in your child's nose, place your mouth over your child's mouth to create a seal. Then, give a short, sharp puff of air into your child's mouth. The air should push the object out of your child's nose. If the object is stuck in one nostril, gently close the other nostril with your finger. Then, blow into your child's mouth.\n4. Use tweezers only if the object is easy to see and grasp. Don't try this method if you can't easily see or grasp the object. Try blowing air out of the nose first. This might free the object without tweezers.",
+      "warning": "Don't poke or prod the object. Fingers, cotton swabs and other tools might cause swelling and more damage. If the object is pushed deeper into the nose, it may be harder to remove. And it could cause choking.\nDon't inhale the object. You might choke. Instead, breathe through your mouth until the object is removed.\nDon't wash out the object. You might choke if the object is washed into the airway. Also, some objects may cause more damage when wet.\nSee a healthcare professional if you see symptoms of infection."
+    },
+    {
+      "condition": "severe bleeding",
+      "patterns": [
+        "severe bleeding",
+        "profuse bleeding",
+        "heavy bleeding",
+        "arterial bleeding",
+        "blood loss"
+      ],
+      "emergency_help": "A person with uncontrolled bleeding can die within five minutes, so it's important to quickly stop blood loss. Call emergency number if the wound is deep or you're not sure how serious it is. Don't move the injured person except if needed to avoid further injury.",
+      "first_aid": "1. Before checking for the source of the wound, put on disposable gloves and other personal protective equipment if you have them.\n2. Remove any clothing or debris from the wound. Look for the source of the bleeding. There could be more than one injury. Remove any obvious debris but don't try to clean the wound.\n3. Stop the bleeding. Cover the wound with sterile gauze or a clean cloth. Press on it firmly with the palm of your hand until bleeding stops. Wrap the wound with a thick bandage or clean cloth and tape. Lift the wound above heart level if possible.\n4. Help the injured person lie down. If possible, place the person on a rug or blanket to prevent loss of body heat. Elevate the feet if you notice signs of shock, such as weakness, clammy skin or a rapid pulse. Calmly reassure the injured person.\n5. Add more bandages as needed. If the blood seeps through the bandage, add more gauze or cloth on top of the existing bandage. Then keep pressing firmly on the area.\n6. Tourniquets: A tourniquet is effective in controlling life-threatening bleeding from a limb. If needed, apply a commercially made tourniquet if it's available and you're trained in how to use it. When emergency help arrives, tell them how long the tourniquet has been in place.\n7. Keep the person still. If you're waiting for emergency help to arrive, try to keep the injured person from moving. If you haven't called for emergency help, get the injured person to an emergency treatment unit as soon as possible.\n8. Wash your hands. After helping the injured person, wash your hands, even if it doesn't look like any blood got on your hands.",
+      "warning": "Don't remove large or deeply embedded objects.\nDon't probe the wound.\nDon't press on an eye injury or embedded object.\nDon't press on a head wound if you suspect a skull fracture.\nDon't use an improvised tourniquet, such as a scarf or a belt."
+    },
+    {
+      "condition": "bruise",
+      "patterns": [
+        "bruise",
+        "skin discoloration",
+        "black and blue mark",
+        "contusion"
+      ],
+      "emergency_help": "Contact emergency help, if bruise is associated with severe or uncontrolled bleeding or if bruise is result of a trauma such as a fall from a height.",
+      "first_aid": "1. Elevate the bruised area above heart level, if possible.\n2. Apply an ice pack wrapped in a thin towel. Leave it in place for 20 minutes. Repeat several times for a day or two after the injury. This helps to reduce the swelling and pain.\n3. If the bruised area is swelling, put an elastic bandage around it, but not too tight.",
+      "warning": "Consult a healthcare professional if you:\nHave very painful swelling in the bruised area.\nSuspect a bruise has been caused by child abuse, domestic violence or elder abuse.\nStill have pain three days after a minor injury.\nHave bruises that begin suddenly or seem to develop for no reason.\nHave a personal or family history of easy bruising or bleeding.\nNotice a lump form over the bruise, which may be a sign of pooling blood, also called a hematoma.\nHave unusual bleeding, such as from the nose or gums."
+    }
+  ]
+}
